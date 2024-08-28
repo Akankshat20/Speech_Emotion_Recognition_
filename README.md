@@ -1,1 +1,2 @@
 # Speech_Emotion_Recognition_
+This project analyzes basic emotions like calm, happy, fearful, and disgust using machine learning techniques like Multilayer perceptron Classifier (MLP Classifier), CNN, and RNN-LSTM model. Python libraries like Librosa, sklearn, pyaudio, numpy, and soundfile are used to analyze speech modulations and recognize emotions. The RAVDESS dataset contains 1500 audio file inputs from 24 actors, allowing a NLP-based model to detect emotions and speaker gender
